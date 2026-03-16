@@ -1,7 +1,7 @@
 <!--
   Omar Adel - AI/ML Engineer
   GitHub: https://github.com/omaradel227
-  LinkedIn: https://www.linkedin.com/in/omaradel227
+  LinkedIn: https://www.linkedin.com/in/omar-adel-252a19298
   Email: o.gamalabbas@gmail.com
 -->
 
@@ -31,7 +31,7 @@ omar@GitHub:~$ python about.py > ABOUTME.txt
 
 <h4>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Omar. I'm passionate about <strong>Large Language Models 🧠</strong>, <strong>Computer Vision 👁️</strong>, and <strong>Generative AI ✨</strong>! My work blends deep learning, NLP, and real-world AI deployment — from edge devices on factory floors to intelligent mobile apps.</h4>
 
-<a href="https://www.linkedin.com/in/omaradel227">
+<a href="https://www.linkedin.com/in/omar-adel-252a19298">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" align="right" width="40%"/>
 </a>
 
@@ -44,7 +44,7 @@ omar@GitHub:~$ python about.py > ABOUTME.txt
 > 🎓 B.Sc Computer Science — **Nile University** · Dean's Honor List Fall 2024
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
-<a href="https://linkedin.com/in/omaradel227" target="_blank">
+<a href="https://linkedin.com/in/omar-adel-252a19298" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
 <a href="mailto:o.gamalabbas@gmail.com" target="_blank">
