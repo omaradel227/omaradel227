@@ -24,7 +24,7 @@ if __name__ == "__main__":
 ```
 
 
-<table><th><h2 align="center">ABOUTME.txt</h2></th>
+<table><th><h2 align="center">ABOUT_ME.txt</h2></th>
 <tr><td>
 
 <h4>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Omar. I'm passionate about <strong>Large Language Models 🧠</strong>, <strong>Computer Vision 👁️</strong>, and <strong>Generative AI ✨</strong>! My work blends deep learning, NLP, and real-world AI deployment — from edge devices on factory floors to intelligent mobile apps.</h4>
