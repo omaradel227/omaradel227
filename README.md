@@ -59,7 +59,7 @@ omar@GitHub:~$ python about.py > ABOUTME.txt
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Large+Language+Models+%F0%9F%A7%A0;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;NLP+%26+Deep+Learning+Specialist+%F0%9F%94%AC;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&background=FFFFFF&center=true&vCenter=true&width=600&lines=Large+Language+Models+%F0%9F%A7%A0;Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Generative+AI+Builder+%E2%9C%A8;NLP+%26+Deep+Learning+Specialist+%F0%9F%94%AC;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -81,7 +81,6 @@ omar@GitHub:~$ python about.py > ABOUTME.txt
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Tools**
@@ -101,12 +100,12 @@ omar@GitHub:~$ python about.py > ABOUTME.txt
 | Skill | Level |
 |---|---|
 | Python | ![95%](https://progress-bar.xyz/95?title=&width=300&color=7c3aed) |
-| PyTorch / TensorFlow | ![87%](https://progress-bar.xyz/87?title=&width=300&color=7c3aed) |
+| PyTorch / TensorFlow | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
 | LLMs & Fine-tuning | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
-| Computer Vision | ![80%](https://progress-bar.xyz/80?title=&width=300&color=7c3aed) |
-| NLP / Transformers | ![80%](https://progress-bar.xyz/80?title=&width=300&color=7c3aed) |
-| Flutter / Django / FastAPI | ![70%](https://progress-bar.xyz/70?title=&width=300&color=6d28d9) |
-| Docker / MLflow / DevOps | ![65%](https://progress-bar.xyz/65?title=&width=300&color=6d28d9) |
+| NLP / Transformers | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
+| Computer Vision | ![75%](https://progress-bar.xyz/75?title=&width=300&color=7c3aed) |
+| Docker / MLflow / DevOps | ![75%](https://progress-bar.xyz/75?title=&width=300&color=6d28d9) |
+| Flutter / Django / FastAPI | ![60%](https://progress-bar.xyz/60?title=&width=300&color=6d28d9) |
 
 #### 🧩 AI/ML Specialties
 
