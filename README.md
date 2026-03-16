@@ -22,9 +22,7 @@ if __name__ == "__main__":
     for info in me.all():
         print(info)
 ```
-```sh
-omar@GitHub:~$ python about.py > ABOUTME.txt
-```
+
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
