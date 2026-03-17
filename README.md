@@ -24,34 +24,35 @@ if __name__ == "__main__":
 ```
 
 
-<table><th><h2 align="center">ABOUT_ME.txt</h2></th>
-<tr><td>
+<div align="center">
 
-<h4>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Omar. I'm passionate about <strong>Large Language Models 🧠</strong>, <strong>Computer Vision 👁️</strong>, and <strong>Generative AI ✨</strong>! My work blends deep learning, NLP, and real-world AI deployment — from edge devices on factory floors to intelligent mobile apps.</h4>
+<!-- Terminal window bar -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=1800&pause=600&color=A78BFA&background=13131F&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=200&lines=%23+Initializing+profile...;name+%3D+%22Omar+Adel%22;role+%3D+%22AI+%2F+ML+Engineer%22;focus+%3D+%5B%22LLMs%22%2C+%22NLP%22%2C+%22Computer+Vision%22%2C+%22GenAI%22%5D;status+%3D+%22Open+to+opportunities+%F0%9F%9A%80%22;print(%22Let%27s+build+something+intelligent.%22+%E2%9C%A8)" alt="Terminal Card"/>
+
+</div>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/omar-adel-252a19298">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" align="right" width="40%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="35%"/>
 </a>
 
-> 🔭 I'm currently **open to opportunities** in AI/ML Engineering
+| 🎓 Certifications | 🤖 AI Projects | 💼 Internships | 🏅 Honor GPA |
+|:---:|:---:|:---:|:---:|
+| **7** | **5** | **2** | **3.94** |
 
-> 🤖 I'm especially interested in making AI more **efficient**, **practical**, and **impactful** in the real world
-
-> 🏗️ I love fine-tuning LLMs, building CV pipelines, and deploying models at scale
-
-> 🎓 B.Sc Computer Science — **Nile University** · Dean's Honor List Fall 2024
-
-<details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
+<details open><summary><h3>🌐 Connect with me</h3></summary>
+<br/>
 <a href="https://linkedin.com/in/omar-adel-252a19298" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:o.gamalabbas@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </details>
 
-</td></tr>
-</table>
+</div>
 
 <hr>
 
@@ -141,7 +142,7 @@ if __name__ == "__main__":
     <td><strong>AI Intern</strong> — CodeAlpha</td>
     <td><em>Sep 2024 – Nov 2024</em></td>
   </tr>
-  <tr>
+  <tr> 
     <td colspan="3">
       Built a <strong>multilingual translation system</strong> · Engineered an <strong>NLP chatbot</strong> with NLTK/spaCy · Created an <strong>AI music generation</strong> pipeline using RNNs & GANs · Implemented <strong>real-time object detection</strong> with YOLO & Faster R-CNN
     </td>
@@ -171,4 +172,3 @@ if __name__ == "__main__":
 </details>
 
 <hr>
-
