@@ -79,7 +79,6 @@
 
 ### 📊 Skills & Specialties
 
-#### 🔬 Proficiency
 
 
 
