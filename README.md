@@ -5,23 +5,8 @@
   Email: o.gamalabbas@gmail.com
 -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=2563EB&background=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Omar+Adel;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Building+Intelligent+Systems+%E2%9C%A8" alt="Typing SVG" width="100%"/>
-</div>
 
 
-<hr>
-
-```python
-# about.py
-import me
-from skills import CV, NLP, LLMs, GenerativeAI
-from experience import Tatbeek, CodeAlpha
-
-if __name__ == "__main__":
-    for info in me.all():
-        print(info)
-```
 
 
 <div align="center">
@@ -96,15 +81,7 @@ if __name__ == "__main__":
 
 #### 🔬 Proficiency
 
-| Skill | Level |
-|---|---|
-| Python | ![95%](https://progress-bar.xyz/95?title=&width=300&color=7c3aed) |
-| PyTorch / TensorFlow | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
-| LLMs & Fine-tuning | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
-| NLP / Transformers | ![85%](https://progress-bar.xyz/85?title=&width=300&color=7c3aed) |
-| Computer Vision | ![75%](https://progress-bar.xyz/75?title=&width=300&color=7c3aed) |
-| Docker / MLflow / DevOps | ![75%](https://progress-bar.xyz/75?title=&width=300&color=6d28d9) |
-| Flutter / Django / FastAPI | ![60%](https://progress-bar.xyz/60?title=&width=300&color=6d28d9) |
+
 
 #### 🧩 AI/ML Specialties
 
