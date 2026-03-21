@@ -80,10 +80,6 @@
 ### 📊 Skills & Specialties
 
 
-
-
-#### 🧩 AI/ML Specialties
-
 <table>
   <tr>
     <td align="center"><b>🧠 LLMs</b><br/>Fine-tuning · RAG<br/>LLaMA · GPT · BERT</td>
