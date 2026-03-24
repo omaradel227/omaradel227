@@ -24,7 +24,7 @@
 
 | 🎓 Certifications | 🤖 AI Projects | 💼 Internships | 🏅 Honor GPA |
 |:---:|:---:|:---:|:---:|
-| **7** | **5** | **2** | **3.94** |
+| **7** | **10** | **2** | **3.94** |
 
 <details open><summary><h3>🌐 Connect with me</h3></summary>
 <br/>
